@@ -1,0 +1,11 @@
+C:\Users\viksu\source\repos\Izpitni temi Viktor Kolev\Izpitna tema 8 Algoritmi i str ot danni\bin\Debug\netcoreapp3.1\Izpitna tema 8 Algoritmi i str ot danni.exe
+C:\Users\viksu\source\repos\Izpitni temi Viktor Kolev\Izpitna tema 8 Algoritmi i str ot danni\bin\Debug\netcoreapp3.1\Izpitna tema 8 Algoritmi i str ot danni.deps.json
+C:\Users\viksu\source\repos\Izpitni temi Viktor Kolev\Izpitna tema 8 Algoritmi i str ot danni\bin\Debug\netcoreapp3.1\Izpitna tema 8 Algoritmi i str ot danni.runtimeconfig.json
+C:\Users\viksu\source\repos\Izpitni temi Viktor Kolev\Izpitna tema 8 Algoritmi i str ot danni\bin\Debug\netcoreapp3.1\Izpitna tema 8 Algoritmi i str ot danni.runtimeconfig.dev.json
+C:\Users\viksu\source\repos\Izpitni temi Viktor Kolev\Izpitna tema 8 Algoritmi i str ot danni\bin\Debug\netcoreapp3.1\Izpitna tema 8 Algoritmi i str ot danni.dll
+C:\Users\viksu\source\repos\Izpitni temi Viktor Kolev\Izpitna tema 8 Algoritmi i str ot danni\bin\Debug\netcoreapp3.1\Izpitna tema 8 Algoritmi i str ot danni.pdb
+C:\Users\viksu\source\repos\Izpitni temi Viktor Kolev\Izpitna tema 8 Algoritmi i str ot danni\obj\Debug\netcoreapp3.1\Izpitna tema 8 Algoritmi i str ot danni.csprojAssemblyReference.cache
+C:\Users\viksu\source\repos\Izpitni temi Viktor Kolev\Izpitna tema 8 Algoritmi i str ot danni\obj\Debug\netcoreapp3.1\Izpitna tema 8 Algoritmi i str ot danni.AssemblyInfoInputs.cache
+C:\Users\viksu\source\repos\Izpitni temi Viktor Kolev\Izpitna tema 8 Algoritmi i str ot danni\obj\Debug\netcoreapp3.1\Izpitna tema 8 Algoritmi i str ot danni.AssemblyInfo.cs
+C:\Users\viksu\source\repos\Izpitni temi Viktor Kolev\Izpitna tema 8 Algoritmi i str ot danni\obj\Debug\netcoreapp3.1\Izpitna tema 8 Algoritmi i str ot danni.dll
+C:\Users\viksu\source\repos\Izpitni temi Viktor Kolev\Izpitna tema 8 Algoritmi i str ot danni\obj\Debug\netcoreapp3.1\Izpitna tema 8 Algoritmi i str ot danni.pdb
